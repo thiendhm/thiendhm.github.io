@@ -8,8 +8,8 @@
 - [ ] [**Green Belt**](#green-belt) - Business logic & analysis
 - [ ] [**Red Belt**](#red-belt) - Advanced visualization
 - [ ] [**Black Belt**](#black-belt) - Performance & scale
----
 
+---
 #### 👆Click on each level to expand and view the detailed sessions.
 ---
 
